@@ -1,1 +1,0 @@
-# Llegar a los primeros 10 puestos
