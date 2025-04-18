@@ -1,5 +1,0 @@
--Xmx6000m
--Dide.managed.by.toolbox=C:\Users\brand\AppData\Local\JetBrains\Toolbox\bin\jetbrains-toolbox.exe
--Dtoolbox.notification.token=0b4113fa-8d4f-481b-9bc6-478e8d03b23e
--Dtoolbox.notification.portFile=C:\Users\brand\AppData\Local\JetBrains\Toolbox\cache\ports\9b9d5606-caa9-4443-8095-8706009b3654.port
--Didea.suppressed.plugins.set.selector=radler
